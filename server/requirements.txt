@@ -1,0 +1,9 @@
+Flask==0.10.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+Werkzeug==0.10.4
+clusterpoint-api==0.3.0
+itsdangerous==0.24
+pycps==0.3.0
+requests==2.7.0
+wsgiref==0.1.2
