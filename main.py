@@ -9,7 +9,7 @@ import os
 slack = Slacker('xoxp-6562741812-6562848885-6651067744-cb5f98')
 app = Flask(__name__)
 
-@app.route("/summarize", methods=['POST'])
+@app.route("/slack", methods=['POST'])
 def slackReq():
 	req_data = request.form
 	channel_id = req_data.getlist('channel_id')
@@ -31,6 +31,30 @@ def slackReq():
 
 	print summary
 	return str(summary)
+
+
+@app.route("/extension", methods=['POST'])
+def extensionReq():
+	# req_data = request.form
+	# channel_id = req_data.getlist('channel_id')
+
+	# response =  slack.channels.history(channel_id)
+	# a = (response.body)
+	# para = ""
+
+	# for i in range(len(a['messages']) - 1, -1, -1):
+	# 	para += a['messages'][i]['text'] + ". "
+
+	# para = para.decode("utf-8")
+	# summary_token = textrank(para)
+
+	# summary = ""
+	# for i in summary_token:
+	# 	summary += i
+	# 	summary += " "
+
+	# print summary
+	# return str(summary)
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
