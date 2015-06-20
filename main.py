@@ -23,8 +23,8 @@ def slackReq():
 
 	para = para.decode("utf-8")
 	summary = textrank(para)
-	print summary
-	return "OK"
+	
+	return summary
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
