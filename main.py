@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route("/summarize", methods=['POST'])
 def slack():
-	channel_id = request.form[0]["channel_id"]
+	channel_id = request.form[0][1]
 	# response =  slack.channels.history(channel_id)
 	# a = (response.body)
 	print channel_id
