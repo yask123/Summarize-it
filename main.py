@@ -17,7 +17,7 @@ def slackReq():
 	a = (response.body)
 	para = ""
 
-	for i in range(len(a['messages'])):
+	for i in range(len(a['messages']) - 1, -1, -1):
 		para += a['messages'][i]['text'] + ". "
 
 	print para
