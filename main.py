@@ -1,4 +1,3 @@
-from config import *
 import requests
 import pycps
 from slacker import Slacker
