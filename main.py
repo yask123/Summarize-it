@@ -15,9 +15,13 @@ def slackReq():
 
 	response =  slack.channels.history(channel_id)
 	a = (response.body)
+	para = ""
 
-	print a
-	return a['messages'][0]['text']
+	for i in range(len(a['messages'])):
+		para += a['messages'][i]['text'] + ". "
+
+	print para
+	return para
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
@@ -25,6 +29,7 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=port, debug=False)
 
 
+#return a['messages'][0]['text']
 
 # payload = {'apikey': 'a429a338-07a1-4b6e-bd46-c75b1fab8c89', 'text': 'Someone I know recently combined Maple Syrup.'}
 
