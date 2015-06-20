@@ -12,11 +12,12 @@ app = Flask(__name__)
 def slack():
 	req_data = request.form
 	channel_id = req_data.getlist('channel_id')
-	# response =  slack.channels.history(channel_id)
-	# a = (response.body)
 
-	print channel_id
-	return "Yoyo"
+	response =  slack.channels.history(channel_id)
+	a = (response.body)
+
+	print a
+	return a['message'][0]['text']
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
