@@ -1,0 +1,1573 @@
+Kya banaye?
+Abbe ketan ko bhi add kar
+Number
+Mere aur ketan ke do teen idea the
+But not very great
+IBM Bluemix use krna zaruri hai na
+not zaruri
+but you get a prize if you do and if it is good
+Fir to krna padega acchr tareeke se
+😜
+acche*
+IBM exposes a lot of good APIs, watson and all
+and HP gives similar ones too
+Face recognition, speech synthesis and what not.
+Abbe har sponsor ke apne challenges hai.
+And that challenge has to be done using tbeir API
+If you make something good with their API and win, to uss sponsor ka prize milega
+Abbe challenge sabka same hai. You just have to use their platform. Challenge is "Build something using our API"
+Clusterpoint is an SQL DBAAS. That can be used if such is our data requirement.
+But idea hona chaiye pehle
+Pehle socho to kya banana hai.
+NipAlert
+:P
+HP wali API sai lg rhi hai
+and prize bhi sai hai
+:P
+gopro for everyone
+GoPro se apne aap ko fap karte hue pic kheechega?
+hahaha
+bc baaki sab se to sai hai
+bc credits
+de rhe hain
+HP api and IBM. Same same si hai
+Mozilla ki phone ka app banana hai kuch?
+HTML mei hi banta hai I guess. Phone mil jayega
+sirf 2 phone :P
+poore team k lie
+Socho Socho kuch.
+One guy who last time made a service that delivers food to your home
+The point being, you won't know what is getting delivered. Surprise surprise.
+:|
+kisi ko kyu chaiye hoga random khaana
+:P
+One guy who won* last time
+So that you don't have to make up your mind ki aaj kya khau
+👻
+office shayad huda city centre se paidal distance pe hai
+2 sal pehle gya tha
+:P
+To ye kyo bata raha hai
+aise hi
+taki paidal chal le sab
+:P
+:P
+bahut logo ko potty ki problem rehti hai, time pe nahi aati
+unkeliye banate hai kuch
+machine learning etc lagao, when is the best time to drink water for them and go potty
+or music recommender?
+pain point hai bhai
+music recommender to bahut hai
+par ml lagane k lie potty data chaiye hoga
+logo ka
+bahot sara data
+ye bhi ek recommender ki tarah hi hua
+potty time recommender
+:P
+there are many difficulties hostel people face daily
+uske baare mei kuch sochna hai?
+data mei se hum similar user nikalenge, jo apne main user k jaise symptom show kr rhe hain and fir uss main user ko baki users ka avg potty time nikal k denge
+like pranu thought about laundry
+fir unki baat bhi karva sakte hai, bond over the pot
+hahah
+bc hagte hue koi baat kyu krna chahega
+chat karenge na bhai, log game khelte hai
+news padhte hai
+aap chat karo, tumhe kitni aayi
+bc jinhe problem hai potty ki vo to sirf dum lagaenge na
+mujhe to do hi roll aaye you know
+get up and close
+:p
+bc sabse faad idea, jo sabke kaam aega vo hai
+*wait a minute bro, need to apply pressure*
+weed alert
+bc kisi ne nai kia hoga
+:P
+shayad
+kia ho
+par weed data
+kahan se laenge
+:|
+saala har vo developer jo maarta ho yahi ochta hai sabse pehle
+hahah
+hamara bhi ek dost hai jisne esa kuch socha
+social network for nashedis
+sharing stories and stuff
+bc sai app ban skta hai ye agar hum data laane ka soche
+real time data
+but good brain storming, continue rakho. koi to idea aayega
+weed is illegal bro, bhaga denge hackathon se
+virtually legal
+is the term
+:P
+silk route
+bc wahan kaun jaye
+founder serving two life terms
+lets no go there :P
+par ye app bohot logo k kaam ati
+:P
+mere bhi
+bitcoins mei khele thoda? new tech, not many will explore
+yeah
+yask ne bvpmart banaya tha for students to sell their stuff (ED wala chutyapa), books etc
+waise delhi k colleges k lie
+?
+scale krte hain usse
+bitcoins k sath
+oh bc aaj hi maine padha facebook pe collegebazaar
+yes, very much a good idea
+hain :O
+why go outside when you can get things from your college itself next time you attend lectures
+mil nai rha collegebazaar
+ruk
+esi chudaap cheeze mere circles mei hi hoti hai
+:P
+fb search sucks too
+i read somewhere, it is easier to improve an existing idea
+https://www.facebook.com/clgbazaar
+sucky UI
+bitcoin ke saath ek problem jo aa sakti hai, vo ye, will people adapt to it
+will people use it, and not get scared off
+because idea ki practicality should be high priority?
+hmm
+what about
+or maybe this app will additionally help people to get adapted to bitcoins
+:P
+an app that you and your friend join and a fixed amouint of money (bitcoin) to
+and if one day one of them skips exercise, money gets transferred to the others account
+some part of the money*
+:D
+can scale it for bets too
+same caveat, bitcoins
+people don't use much
+in India
+I guess
+thulla alert app
+thulla locations nearby
+to avoid
+thulle
+:P
+notif aegi, thulla nearby
+:P
+but thullas are getting unpredictable
+they pop up anywhere anytime
+and how does the app know there is a thulla
+crowdsourcing maybe
+yeah
+and then give people incentives to mark thulla location
+yeah
+:D
+leaderboard hoga :P
+but then we are making people unsafe by telling them thulle kahan hai and not ki bhai helmet hi laga lo
+:P
+hahaha
+lol leaderboard hahahaha
+but sometimes helmet bhul jata hai banda
+:p
+maybe additionally we can give them low traffic routes ;)
+Bc thulla nearby hona is a good thing
+Positive side nahi dekh rahe ho
+with the thulla nearby notif
+abbe
+pivot
+tells you where is the nearest thulla
+so you can run for help
+Haan. Vahi to.
+bc ye kaunsa app hai
+you have a widget which you press whenb in danger
+so our app would be the opposite :P
+and you get thulla location (and additionally your location gets transmitted to police relatives )
+or maybe
+include hospitals too
+and fire stations
+basically google :P
+and you have one complete "save me!" app
+bc sab chiz hi dal de
+basically bekar ui or lag vala google maps
+:D
+Yask. Open source me contribute karte hue sabse badi problem kaunsi aati hai tujhe?
+finding the right project
+first
+problem
+finding the right issue to solve
+second problem
+Uber Ola bla bla cars ZoomCars, integrate them all inone?
+ml recommends you next project you should contribute to?
+already hai
+naam bhul gya
+yaad krta hu
+bc yaad nai aa rha :
+open _ .org
+something
+chhor ye bata
+ML ka kuch soch
+it gives you project and then open bugs
+ML ka istemal karo kuch cool banao
+ML mei pehle ye soch ki data kis chiz ka available
+hai
+kyuki ussi data se learn krega apna algorithm
+yp
+I have this million song dataset, 1.8GB ka
+yo
+usse kabhi try nai kia
+:P
+socha tha music recommender banaunga
+maybe we can build something with a nice UI
+par yaar bhaut ghisa idea hai
+ismei kuch naya soch
+nahi, idea kahan hai.
+music recommendations mei
+connect people with siilar tastes
+tinder with music huhuhahahaha
+hahaha
+bc
+sai
+kia ja skta hai :D
+this guy listens to beiber? NOOOOO
+alt J, my type
+hahahah
+yo
+musinder
+:P
+:P
+like jatinder
+more like harvinder
+haha
+lets not brand it like tinder, kyoki tinder for X khoob chal raha hai
+tinder with music sai idea lg rha hau
+hain?
+aisa?
+lets just mark people with similar tastes on a map
+example?
+tinder for job, tinder for sex, tinder for bla, bla bla
+bc tinder to sex k lie hi tha par koi ladki right swipe nai krti :'(
+and then you can select, see profile and show interest
+bc saali kehti hai meaningful conversations k lie hain yahan pe
+:(
+bwahahahha
+http://blonk.co/
+D
+:D
+http://www.switchapp.com/
+tinder for X
+khoob chal raha hai
+now back to your music dataset
+http://labrosa.ee.columbia.edu/millionsong/
+details
+I think ismei user data nai hai
+dekhta hu
+bhai 1.8 to kam hai yaar, 280 gb download maar na :P
+han bhai
+zarur
+ok just wondering out loud
+build something that infuses music into your day, and lets you discover new music subtly
+wake up with a random song daily
+(so that you dont start hating your alarm tone_
+songs for the commute, for exercise, fo sleeping
+relaxing
+spotify
+:P
+sounds chudaap
+:P
+pata nai itni randomness would be good for the mind everytime we wake up, main purpose alarm ka wai hai ki hamara dimag same tune ko recognize krna seekh jaye so that it can trigger a wake
+but then we start hating the tone
+and wake up with whaaaat i hate this tone
+why does it have to ring daily
+bc fir sai tune laga koi
+stock tunes to waise hi chudaap hoti hain
+:p
+hahahahhahahahaha
+yahi to galti kar raha hu mai, stock hi lagi padi hai
+:P
+Alarm clocj bana rahe ho tum bus. Underlying problem chudaap hai
+Pranu papa vala idea bataya tune? kuch na ho to vahi kuch better kare?
+abbe bana nahi rahe, brainstorming kar rahe hai
+ese to potty recommender bhi bana diya
+hahahaha
+https://play.google.com/store/apps/details?id=com.drinkify.app
+oooh
+would help someone who is a daaru nob
+noob
+Wassup hackers 😄
+padh le poori thread
+Sabka registration hogaya.
+?
+yo
+pranu dikh rha hai list mei
+ketan nai
+tickets available ho gayi thi
+hackathon.io
+list bhi hai kya :P
+email aya hoga aaj
+usmei link hai
+oh yo uthke dekha tha, neend mei kiya nahi :P
+Nice !
+Yask bhai. Koi mast idea soch.
+Breakfast of champions likha hai schedule mei
+vo to sex hota hai ?
+Haan. Sausages, ham eggs ye sab hota hai
+bacon <3
+abbe
+Bacon bhi!
+SEX
+Breakfast of champions
+Oh acha
+bhai RUSH nahi dekhe ho kya
+:|
+🙇
+na bhai
+Ye kissi movie me dekha tha
+Haan. Rush
+Rush dekh chootiye vinayak
+Bhai itni koshish kar raha tha joke maarne ki
+NH10 dekhne ko keh rha hai ek aur dost
+sai lg rhi hai
+Poora mood off kar diya
+:P
+thriller hai tod
+ye bhi kr leta hu dload
+mjhe kab krne ko milega breakfast of champions :(
+http://chune.co.uk/
+Jaa to raha hai angelhack saalr
+sai bc chune
+Koi mechanical engineer dost hai kya? Quadcopter banate hai
+MAIT mei hi hai
+mech engg to
+xD
+MAIT
+nahi bhai
+ASIMO banate hai
+DTU mei hai mera ek mech engg dost
+jaideep yaad hai pranu?
+wai
+Abbe haan.
+par quadcopter is more like elec engg
+Kya kar raha vo aaj kal?
+Startup launch hua uska?
+milna hai usse bhi
+pata nai
+Koi idea do yaaaaar
+bc tu bhi to de
+itne to de die
+Pornstar recommendation system.
+We promise the best fap experience
+hahahaha
+data
+kaise
+Xvideos ki api nahi hai kya?
+Ya pornhub ki
+Homepage pe ek button hoga, sign up with pornhub.
+haha
+Mast lagega. Bend hui ladki ka silhouette
+Aha 💦
+Abbe kitni badi probelm hai achi porn dhoondna.
+Xvideos bekaar ho gaya jab se homepage pe mallu daal di hai.
+tubepornkiss.com
+meta porn engine
+porn *search
+Yaar.
+Saale hum logo ko roz kum se kum 1000 problems dikhti hongi.
+bc angelhack ki organizer stela xhiku
+<3
+pyar ho gya
+Bc solution nikaalna hai bus.
+but she's already in a rship
+ye mere lie ek problem hai that she's in a rship
+islie
+jodi breaker app
+Link dia kar bhai
+To bhai tudwa dete hai
+Start feeding her wall with bad things about her bf
+https://www.facebook.com/stelax
+Nikal tu algo nikal
+wai soch rha tha
+mei bhi
+facebook ki koi API hogi
+:P
+Naam itna mast hai pornstars vala
+Uttam
+hahahaha han
+Bhai. I think we have fallen in love with the same girl
+:P
+bc ye aegi kya angelhack pe? :P
+NYU se padh rkhi hai ye
+Ham bhi IPU ke hai
+http://labrosa.ee.columbia.edu/millionsong/tasteprofile
+Fark hi kitna hai
+IPPU bc
+similar users nikale jaa skte hain tasteprofile se
+agar usse use krke kuch krna ho
+Ooooh. User dataset bhi
+Opensource zindabaad
+par bc itne sare user hain
+hadoop vadoop lgana padega kya
+1,019,318 unique users
+maine mini k lie jo kia tha usmei sirf 963 users the 😂
+vo bhi ro roke chalta tha
+bc
+😂
+Abbe ye to albania ki hai.
+Hum india ke hai. Better desh hai. University se kya hota hai.
+Par kya usme sanskaar honge?
+Family mei adjustment mei problem hogi
+Par jab pyar sachha ho to sab ho jata hai
+Aisi photos daali hui hai. Meri mummy fb pe hi reject kar dengi
+hahahaha
+lol ye app banao
+check if sanskaar honge
+:P
+questions k basis pe
+:P
+Usne hamse shadi karne ke laalach mei
+Fake answers kar diye to? Fail ho gaya tera app bc
+Haan bc. Shaadi.com
+Wife recommendation system bana sakte hain
+Data lenge poori family ka
+Dowry kitni chaie
+Gori ya extra gori
+Only same caste
+bc psychological test hoga ekdum
+ek question ko 5-6 bar poochenge
+alag type se
+har bar thodi na galat jawab degi
+:P
+psychological tests mei to aisa hi krte hin
+Bande ki patience check karne ke liye
+cheez wapas rakho reminder
+mei abhi scissor leke aya to mammi keh rhi hain ki cheeze wapas rkhne ki adat dalo
+socho ban skta hai ye kisi tarah? :P
+Pehle banda reminder daale ki ye uthaya hai
+Cumbersome hai.
+nai bhai
+Apne aap ho sakta hai kya set?
+vo to chutyapa hoga
+uske bina
+wai
+apne aap
+kuch socho
+kaise
+hoga
+Hand movements but accurate nahi Hongi
+NFC door se signal bhej skta hai mobile pe?
+Walking to some place, some movement, and then coming back to original position ?
+cheez k upar NFC
+hoga
+NFC BC Near field communication hai. Door kahan se aa gaya
+agar cheez kuch duration k lie apni jagah se chali jati hai
+to signal aega
+abey wai matlb NFC jaisa sasta kuch banao
+bc revolutionary hoga
+mobile pe signal aa jaenge dur se :P
+Par iske liye bahut saari cheeze leni padegi
+Jo signal bheje.
+Bande ko use karne ke liye kharidaari karni padegi kaafi.
+Maybe just give a widget to tap to mark you picked up something.
+Tap it once to remind you after a short duration. Tap twice for longer.
+par uska faeda na
+bc log krna padega bar bar
+NFC se ho jaaega
+Par har jagah NFC lagan padega bande ko
+Vaise bhi bahut choti xheez hai. Tu to IOT ke field mei aa gaya.
+aur kisi tarah se solve kr skte hain kya ye problem
+:P
+bc scissor maine ab tk nai rkhi wapas :P
+what about single dads
+they face a lot of problem
+or singe parents for that matter
+India mei kam hi honge
+angel hack to international hai
+vaise india mei bhi bahut hote hai be
+koi demographic ki study hai kya single parents ki
+?
+dekh
+census walo ne kuch bataya hoga
+ruk
+Abbe hackindia.io jo hai
+Vo bangalore me ho raha hai na?
+han
+To apply kyu kar raha hai bc
+yoo
+travel reimbursements hai
+bc mushkil se milegi
+Chalte hai fir.
+First class tickets book karwa
+reimbursements pe depend kre h
+http://www.krepublishers.com/02-Journals/JSS/JSS-21-0-000-09-Web/JSS-21-3-000-09-Abst-PDF/JSS-21-3-197-09-814-Kotwal-N/JSS-21-3-197-09-814-Kotwal-N-Tt.pdf
+:d
+bc
+Abbe tumne ye dekha hai ki aaj kal har cheez ke support groups hai.
+Jaise fight club me the
+Inko online laate hai.
+project mayhem
+krte hain
+destroy the internet
+:P
+India mei hain aise support groups?
+FB groups honge shayad
+Haan bhai. Bahut hai.
+AA hai India mei?
+Yep.
+baat ye hai
+Kaafi prevalent hai
+ki support group banana hai
+bc reddit pe chalta hai ye sab
+to Facbeook group banao na
+app kyo
+Yaar aise to tinder bhi bol sakta tha
+facebook pe sab lo ghai hi, group join karva lo.
+na tinder alag hai
+anon nai hai
+fb pe
+9chat dekha hai
+vo bhi isi tarah hi hai
+Ofcourse we will add special functionalities which cater to such support groups.
+post dalte hain log
+Fb groups to bajut generic hai.
+baki comments krte hain
+alag sections
+bana skte hain
+har support group ke
+Leeme check out 9 chat
+9chat pe bhi advice mangte hain bohot
+Mast hai 9 chat nc
+Bc*
+Saala hai to 9gag jaisa hi, but more personal feel
+han
+Koi movie batao mast?
+Lighthearted ho to better hai
+Groundhog Day
+Seen
+being john malkovich
+Let us see
+Aur bata
+fantasy comedy
+Chal koi comedy bata
+ghostbusters to dekh rkhi hogi
+Haan. Itni puraani mat bata yaar
+office space?
+Vahi dekhta hu
+Movie recommendation to bana hi hua hai.
+Netflix haraami.
+cosmos a spacetime odyssey dekh bc
+Vo to series nahi hai
+?
+han
+faad hai ekdum
+Dekhi hui hai
+Carl sagan vaali
+Na
+?
+neil tyson wali
+effects zyada acche hain
+carl sagan wali se
+Haan vo bhi dekhi hai.
+:P
+Bhai tu vo dekh morgan freeman ka ek show.
+Naam bhool gaya.
+through
+the
+wormhole
+Haan. Aur stephen hawking ka bhi tha ek aisa?
+Uska kya naam tha?
+han uska bhul gya
+grand design?
+the adventures of sherlock holmes dekh bc
+ultimate
+purane wala
+closest representation of sherlock
+doyle k works ki
+Christopher lee waala?
+Do teen episode dekhe the
+jeremy brett
+Neend aa gayi bc.
+Vo nahi pata. Saale aaj kal time nahi milta series ke marathon karne ka.
+jeremy brett is the best sherlock ever
+realest too
+realistic*
+han yara :(
+pitchers ana hai bc kal
+<3
+Product / Solution: Is the solution solving an existing problem? How much of an impact does the solution have? How likely will this product be able to acquire users? 
+Office change ho gya hai shayad knowlarity ka 😅
+Ye kaha se mila?
+Mail aai hai kya koi
+Han
+viable hona chaiy esolution
+Impact, acquire users
+Pranu, I think papa vala kaam
+can be used, discuss karlo
+we should talk to small business owners
+and see if it is a problem all of them face
+What problem?
+Apne papa ke circe me hi pooch
+Vinayak tere papa business karte hai ya job?
+Business
+Problem to batao bc
+Bata ketan
+Cybercity me hi to hai.
+Knowlarity ka office.
+Abbe. Ketan. We need to come up with an official sounding problem statement. Nahi to jaise harsh keh raha tha. Bahut vague lagega
+Ok, so my father is running a business. He has 4-5 semi skilled workers under him for doing chores. He is the brain of the business. Takes order, makes decisions, delegates work to the employees
+haan to i am saying lets discuss?
+So it gets difficult for him to manage all the queries from customers, orders, quoatations
+and as the work load increases, he misses a few them because he cant respond in time
+and he loses track of which one of his worker is doing what.
+this gets especially difficult when he is on a tour.
+the work is simple, he needs to forward the query of a company to his employee, who will look for the material in the market, find competing prices
+and send it to papa
+papa needs to select one of them and forward to the client
+then if the client accepts, an order has to be generated etc etc
+we have to reduce the time he takes to write all those mails and stuff
+and generate all of them automatically
+and come out with ways which makes it easy for him to process orders etc
+maybe pick up the material required from the mail automatically, and shoot it to the employee
+so one platform where he can delegate work and keep track of things
+where his effort is reduced to minimal and he can process more enquiries
+and earn better profit
+That is the basic idea
+Profit to same hi rhega
+Badhega kaise
+Keeping track or orders isn't that difficult
+of
+profit badega because if he gets 10 orders a day, he misses 5 of them
+And mail se directly core info nikalne ka soch rha hai?
+Yup. But that is for later. That is making the product better.
+Automate things.
+Bc galti se mil gya call 😐
+Basically Management system for SMEs
+So, right now if he gets an order. He has to write a new mail so that clients info isn't exposed.
+And send
+Then when he gets the mail, hr has to again make a new mail for hiding sellers info
+And then generate quotation
+Order
+Bla bla.
+Khel sab core info ka hai. Time waste etc hota hai.
+Plus no way to keep track of all the workers except call them.
+Google nikalta hai jaise core info hamare mails se Now cards generate krne k lie
+Maybe yes.
+NLP problem hai ye
+Shayad
+So this is a problem he faces.
+If its a problem other owners feel too
+Then it should be solved.
+We can discuss it, koi aur viable idea to aa nahi raha
+Fsck lodu kahan mara pada hai
+NLP kya hai bhai
+Natural Language Processing
+Okay. And oooooh
+IBM bkuemix
+Or HP haven on demand
+API hai?
+Has APIs for NLP
+Iske lie?
+Oh
+YOOOO BITCH
+Dekhta hu
+Though I still can't see how anyone would miss half their business mails 😐
+A man will check his mail carefully if he needs to make money
+Because its not on mails all the time.
+Abbe sirf mails nahi hai
+Phone calls.
+Its on phone too. Then sometimes on whatsapl
+Texts
+Plus. Its not about checking mails.
+It is about *processing* them
+So jab bhi call/msg ata hai he'll log that info in our app?
+Every time
+And we are not building a mail processor, abhi to.
+Haan.
+So that his employees can see it.
+And he need not individually inform tham.
+Everybody is on the same page at all times.
+Most semi skilled workers may have not used a computer though
+Thoda intuitive hona padega
+UI ko
+Abbe nahi. Sabke paas smartphone hai yaar.
+Aisa
+Bhai. UX banaega na tera bhai.
+Sexy sa.
+Minimal and simple.
+To android mei banaenge?
+That has to be decides.
+Weather a web app or mobile
+Mobile sounds better dedinetely
+But we dont have an androud dev.
+I can make android app, by generating web view but this will be the first time
+Android dev meri class mei hai ek sai
+Pehle pata hota
+To uska bhi krwata register
+Abbe aise to team me 10 log ho jaaenge
+Lean rakhna hai bhai.
+Everybody has multiple roles.
+Abbé idea hai ye.
+Web app bana denge
+Mobile first.
+Idea viable hona chaiye.
+App to develop ho jayega baad mei when we pursue the idea.
+And yes, in the beginning he logs the product once
+But after that he needs no logging. Then he just needs to select the price he needs to give to the client.
+Par pehle research karo, ye problem hai bhi ya nahi.
+<Media omitted>
+bc lalit modi xD
+poilce peeche hai aur sala party kr rha hai xD
+lalit modi be like, party yuhi challegi
+http://www.sap.com/solution/sme/software/erp/overview.html
+SAP
+is for large companies
+bade bade modules
+Buy Now, Pay Later: Introducing 0% financing for small and midsize companies.
+dekhne de fir :P
+yar har chiz ban chuki hai
+bc technological singularity aaye bas kisi tarah
+potty time recommender nahi bana bhai bas ab :P
+mere lifetime mei aa jaye
+bc interstellar travel bhi nai hogi apne life time mei :(
+bc galat time pe paida hue hain
+middle children of history
+http://publications.iadb.org/handle/11319/3125?locale-attribute=en
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=984658
+SAP BusinessOne
+Did we decide any ideas ? Logs too long , can't read!
+padhle bc
+😑
+vinayak, price padh bc
+aur bhi honge SAP ne bana rkha hai to :P
+sap ki smalest offering is for 100 employees vale firms
+dekhe the maine, not good
+limitations kya hai unki jo tune dekhe the
+cluttered UI
+slow
+yask koi idea de tu bhi
+ek aur mila hai, usse bhi dekhta hu
+Pehle purana idea batao 😑😑! Logs too long to read
+potty time recommender
+current idea is management system for SMEs
+😳😑
+SME ?
+another was tinder for music
+SME ?
+small and medium-sized enterprises
+http://spinso.com/eqms/Screens/index.htm
+i think this comes very close]
+aur potty time recommender joke hai bhai
+another idea was weed alert
+Cms sounds boring
+yeah
+but useful
+hai
+Batato agar kissi ke paas aur kuch ho dimag mr.
+vo wale idea bata yask
+Ah ! Okkey ! This was a request by Akshay katyal, he wanted me to build an app that could notify the android app developers if a new comment was posted , or a new rating was given to their apps on playstore by email. Google doesn't provide is functionality as yet ! Sounds like a crucial feature to me ! We can scrape data from the website in time intervals and notify by email if any updates ?
+I have written the scrapper already
+But this is a very small thing
+The problem solved is not very difficult to solve.
+Think of something else too that this can be provided with as a feature.
+our senior won at AngelHack Mumbai, he built a license license
+Bahut trivial problem hai. Stand alone kaam nahi karega
+any idea what that is
+As a package do
+Okey!
+License summarization app?
+License summarization.
+wai
+smjh nai aaya mjhe
+Ispe to startup aa gaya hai
+license summarization hota kya hai
+Kya hota hai ye
+What I am thinking is, we accept so many license agreements
+"I accept"
+oh
+to license mei se
+info extract krna?
+And then maybe get fucked by the company but do nothing about it because it was in the license which we accepted.
+core info
+Yes. The people I know of, they were taking out the data and presenting it in readable fashion
+Like benefits, dangers, areas of concern ese
+mast hai ye idea to
+And bhari bhari words ki replace karo by normal usage word.
+Mazza aa gaya ye problem sun ke.
+So now this is an idea that scales
+usse puchu ki kaise banaya ye? hum bhi yahi bana dete hain kuch add krke :P
+problem to faad hai bc <3
+https://tldrlegal.com/
+not htis
+this*
+bc found the source code https://github.com/madaan/delic
+:p
+http://amicus.co/
+nlp use kia hai bc
+ismei
+stanford ki ko library
+amicus dekh
+Cool
+hum isi ko ibm ya hp ki api use krke banate hain :P
+idea to mast dekho tabhi banega jab 2 fields ko jodenge
+jaise ismei law and cs ko
+aise kuch socho :P
+aisi koi field lo
+jo kabhi use na ki gyi ho
+:P
+sahi baat hai
+like zenefits
+found out a market that was being neglected
+aur ab dekho
+hmm
+ye papa vala kaam bhi mujhe esa hi lag raha tha par :X
+yask pranu kahan gye bc
+Bol bhai
+bhai pranu to bandi mei busy rehta hai
+bc ban gyi iski?
+:O
+bc
+AIESEC ka kamal hai ye
+bhai BVP ki hi hai
+hain?!
+nahi bhai BVP mei hi hai koi
+bc kaun
+naam bata
+ab naam to pranu ko pata hai
+Chootiya kaat raha hai ye bus
+bata bc pranu
+😂
+bc party hogi
+pranu ki bandi banne ki khushi mei
+Mera lauda party dega tum sab ko.
+Kya baat hai 😄
+BC bande ne java mei banaya hai
+java  valo ke liye respecthai mere ,man mei
+Java sucks !
+Han java mei banayi hai bc
+tabhi to respect hai bhai
+JAVA mei banake HACKATHON mei
+jeet bhi gaye
+Dikhne mei bhi sundar lg rha hai app 😜
+Real-time personalized recommender for instant messaging
+ek aur idea aa rha tha kal dimag mei
+resume ranker :P
+apne aap rank kr dega resume⁠⁠⁠⁠s
+parse krke
+hmmm
+for HR people
+yeah
+it'll make their jobs easu
+easy
+or even remove them
+:P
+Aur socho
+<Media omitted>
+😍
+Bc MS krne US chalo
+Paise ka manga hai bas bc
+😜
+ms Ka mood nahi hai yaar.
+to fir iss list mei MAIT ko add kr
+kisi tarah
+:P
+Full on try rahega.
+pranu the startup guy
+Saale xiaomi ke founders ke college bahut mediocre the
+And that too design sxhools.
+Design me degree li thi unhone..
+fir bhi IPPU se acche honge xD
+Poora mood off kar dia tune.
+IPPU ne bana dia PAPPU
+rush download ki hai
+Saale yaha light hi nahi subah se.
+Kaam ruka pada hai saara
+:(
+Soch raha hu tinder download karu
+UX test karne ke liye.
+:P
+bc chutiya ladkia hai delhi ki :P
+meaningful conversations chaiye bc ko
+De denge.
+:P
+<Media omitted>
+hahahaha
+bc delhi k lie tinder jaise kuch ban skta hai? jismei kuch mile, bc tinder pe to bas photo dekh k sewa kr lo bas
+koi ladki krti bhi hogi kya swipe right bc
+:P
+bc aisa kuch banate hain which will give 100% result
+:P
+Bhai tinder itna chal raha hai kyuki selection process is dead simple.
+Shakal dekho, and answer in yes or no.
+like facemash
+Ye selection process aur kaha lag sake hai.
+collegea
+fests
+github ke liye bana do bc
+swipe left right to contribute to an issue
+:D
+Phone se contribute karta hu mai.
+Yaar phonr pe code likhna intuitive bana dete hain.
+Taaki you can code on the go.
+Phone, tabs.
+bc itne chhote keyboard pe
+bc phone ke liye editor
+Haan. To keyboard alag hoga na humara
+with all the features
+indentation, code highlighting
+Specially keys only for writing code.
+brackets and shit
+Matlab { ye sab ek touch pe mil jaaye
+compile krega fir banda?
+but would anyone write code on phone, why would people write code on phone
+git bhi dena pdega
+git dedo phone ke liye
+Haan bc. Android ke kernel me git integrate kar dete hain.
+Maa ki choot.
+kernel kyo
+bina itne andar ghuse bhi ho jayega
+Har android phone git ke saath aaega fir.
+tujhe git implement karna hai bas, taki git pull oush kar sake
+To uska shell to laana padega hi
+git for windowas
+is it a shell?
+buttons, for pushing commiting syncing
+shell stimulate kar denge, kernel nahi ghusna padega
+Abbe vo chutiyaap hai. Koi bhi asli dev nahi use karega usse.
+koi bhi asli dev bina compile kare code push bhi nahi karega
+but we can do this thing
+phone pe ye sab koi nai krega bc
+people have started writing books
+on github
+not code, but people can continue writing their books on the phonw
+Abbe html css JS ka to compile karne ki zarurat nahi.
+Chrome karega vo sab.
+they can benefit from git for phone
+small user base
+those who write books
+on giuthub
+for now
+we can make it like
+Kum se kum web ki coding to ho hi sakti hai github pe.
+people can take notes on their phone
+bc Google Keep hai to
+we can start a new usecase for github
+abbe school notes
+bade notes
+anything text with a history
+like people use ms word
+Drive?
+lo ab git pe karo with full history and feel cool
+yaaaaaaaaaaaaara drive ki ma ki choot
+basically bas version control dikhega
+phone pe
+?
+and yo, devs who develop for mobiles
+and pull/push capabilities?
+can modify code on phone and seedhe seedhe dekh bhi lenge
+Haan.
+an editor with git capabilities
+local rep on phone BC
+phone pe kyu krega koi
+bc dev na krega koi bhi
+phone pe
+Yaar. Aise kyu soch raha.
+Ye stigma hi to hume todna hai.
+koi problem nai hai ye jise hum solve kr rhe hain, bas ek extra occassional option de rhe hain
+phone pe karte nahi na log kyoki koi tareeka nahi
+occasional
+na dhanke keyboard
+and na git
+Aur hum hi sabse badiya UX bana sakte hai cuz we have first hand dev experience.
+keyboard dena hoga with large buttons
+no auto correct by default
+and one touch pe brackets and stuff
+Yep. With frequently used keys right on one yap
+Tap*
+Bhai. Ye bana sakte hain.
+or maybe, witout a tap too
+automatic indentation and closing brackets
+fun hoga yaar
+But. Ek cheez hai. How far will the hardware support us.
+i searched for gitpull for mobile
+Upper limit kya hai jo code compile hoke run kar sakte hain.
+not a single result bro
+ye cheez kisi ne explore hi nahi kari
+But we need to have an app dev
+see, idea hai agar achha to abhi we can just compile html css Js
+Ek bhi nahi hai.
+and say that this can be made to compile other codes too
+but the thing is, a django dev wont have djago on his phone
+same for ROR
+Exactly.
+there is no way to tesst
+No way to test, just compiling wont solve a problem
+only noobs play with vanila html css js
+pros, who might need to code on the go, use frameworks
+dev sirf apne repos pe hi push/pull kr skega, not on branches of forked repos, kyuki fir merge conflicts aate hain kai bar
+and git push pull konsa aasaan cheez hai emulate karna
+linus ne banaya tha
+ham to chuitye hai
+Abbe. We can make html css abhi.
+Kya pata ye dekh, node alag se nikal de androud ke piye.
+dude iske sath aur bhi commands chaiye hongi, sirf push/pull thodi krega :P
+Liye*
+abbe idea to de sakte hai, ki bc git aur phone
+koi samabandh hi nahi
+no connection, why?
+pranu, nahi ho payega, phone pe development nahi ho sakti html css ke alawa kisi bhi cheez ki
+vo bhi banda tabhi kar payega test if he is testing mobile site
+All of this we are discussing cant be done in 32 hours for sure. Immense amount of research chaoe
+because mobile screen pe desktop nahi la sakte
+Yeah. Isko keep me store kar raha. Definitely an idea no one has though of. But not feesible right now.
+Aur socho
+mobile pe git
+kara kyo nahi bhai
+mast hai
+ek choti cheez hai
+my toaster is kharab, i want to buy a new toaster
+i click photo of it, get prices for a new one from flipkart, amazon
+image recognition API karo use
+people already doing that too
+okay
+Ye to google goggles ke lines pe hi ho gaya
+yo but ecommerce ghuseding
+like soundhound
+gaana karo identify and khareed lo
+pranu bc
+dbrand ko india mei mast delivery k lie $28 chaiye
+ye hamare lie problem hai
+isko kaise solve kr skte hain
+dbrand?
+a site where people meet to share shipping costs for a similar purchase
+ya fir a service which provides reliable shipping
+share shipping costs from the same provider
+users utne nai honge shayad
+60 rupay ki shipping hoti hai
+bc $28 maang rhe hain
+aur bhi companies mehngi shipping mangti hongi shayad
+for safe delivery
+Abbe nahi. Bahut bade bade log baithe hain shipping me.
+import karva raha hai kya?
+Plus initial investment bhi bahit zada hogi
+bc dbrand indian brand thodi hai
+US mei hai
+mujhe kya pata tha
+google kr
+Ketan. Jaake dekh dbrand ki site
+i thought you misspelled brand :P
+tujhe kuch mangana hai to hum shipping cost share kr skte hain
+:P
+nope
+dbrand
+:P
+bc mei log dhund rha hu taki shipping costs share ho ske
+aisa forum bana skte hain hum
+Ohh. Achaa.
+par fb groups aa jate hain fir
+forum banana hai koi bhi
+to fb
+bhater user pehle se hai
+Haan. Vahi problem hai.
+Pretry sure koi group hoga hi aisa.
+Yaar laanat aa rahi hai apne uppar. Ek viable problem nahi sochi jaa rahi.
+bc sari problem koi na koi solve kr chuka hai
+:P
+world hunger solve krte hain
+aaja fir mujhe khana deja
+an app which notifies you if there is free food nearby
+Abbe ek theory hai ki koi problem humesha 100% solve nahi ho sakti.
+Problem evolve ho jaati hai solution ke hissab se.
+parso se yahi theory suna raha hai
+An app which lets you donate extra food and clothing items to the poor.
+Aap daalo ki kya kya donate karna hai.
+bahut common use case hai
+Ghar aake le jaaenge.
+Aur donate kar dengw.
+yaar ye to ngo ke liye hai
+poor logo ko notify kaun krega
+hum jaenge sabke ghar?
+ngos hai esi
+:P
+middleman ki tarah
+Abbe poor logo ko notify nahi karega koi.
+business kahan hua
+NGOs ko karenge.
+poor logo ko ek ek phone de dete hai
+Bhai. Hackathon me to problem solve karna hai na vus.
+Vo problem hum solve kar rabe hai.
+an app that finds the best schools nearby
+rank them with positive and negative points
+Best kis hisaab se ?
+education, co-curricular etc
+school ka result in board exams
+Vo to google hi kar deta hai.
+scrape data from the school's site, if school doesn't have a site, find an upload data
+but in a presentable way
+krenge
+:P
+comapre two schools
+option
+<Media omitted>
+Isse zyada presentable kya lega
+i crie evrytiem
+but uss school k bare mei aur info? like percentages etc
+logo ko site pe na jana pade individual schools ki
+bc koi AI problem dekho ya kuch aisa jismei AI use kr ske :P
+Haan. Millennium prize problem solve larwa dete hai usse.
+Ek million chaar hisso me baant lenge
+to uss hisab se mujhe kitna milega?
+250,000
+AI se solve karwa lenhe
+$
+Is P = NP? solve kr dete hain
+:P
+(dhamaal movie)
+bc gaan fat jaegi
+bhai koi problem nahi hai
+vhaan jaate hai
+kisi ke saath chipak jate hai
+hahahaha
+http://my.fakingnews.firstpost.com/2015/06/17/lambu-aatas-death-in-movie-gunda-inspired-game-of-thrones-writer-to-kill-off-central-characters/
+xD
+Yaar tinder mast hai.
+kr dia kisi ladki?
+swipe right?
+Itna easy way hai ladkio ko objecrify karna
+Do ki hai abhi.
+abey kisi ladki ne tujhe kia bc?
+ye puch rha hu
+Abhi tak to nahi
+Saale 1 ghante pehle to aaya hu
+mei mahino pehle aya hu :'(
+ek do ne kia salio ne reply bhi nai kia
+:P
+Galti se ho gaya hoga.
+tujhe right swipe kiya
+:P
+to galti se hua hoga
+:P
+hat bc
+Abbe teri aankhon me hawas ka nanga naach dikh jaata hoga unhe
+hahaha
+bc sab ladke hawas k pujari hote hain
+bc sabse bada hawasi tu
+aiesec mei hawas faela k aya
+Yaar. Ladkio ke liye app hona chaie. Bande ko scan karo aur uska hawas percentage jaan lo
+haha
+Lol
+I had this idea , like tinder , but it would show only Facebook friends and anonymously people would say like , and if 2 anonymous people like each other connect them . I tried to implement this but Facebook graph api doesn't give friend list Anymore 😓😓😥
+There's this app, Down
+Vo bhi yahi krta hai
+Not anonymous though
+It should be anonymous , I like cheshta , don't know if she likes me , if only we could anonymously choose our preference and find out if both of us like each other ?
+Actually can be implemented by scrapping
+But using graph api would have been much easier
+Oye. Kuch aisa extension banate hai chrome ka which blocks all spoilers in my news feed.
+By scraping the data.
+Purana idea bkl
+Kya bana hua hai aisa kuch
+?
+Yask ne hi banaya hua hai ek, removes all salman khan related things from news feed
+And yo. Kam se kam 2 saal pehle padha tha, a girl, tired of getting spoilers, made one such chrome extension for twitter
+And again, choti cheez.
+Okaay
+Ah ! Yeah.. I also made this... , it wasn't perfect but we can work on it . a chrome extension that automatically detects which song video you are watching and brings out a nice modal view with lyrics . This can also be extended for Hindi songs.
+Instead of doing this what I actually ended up doing was this .. An app that fixes mp3 tags and downloads lyrics by scanning file names.
+Watch "Auto MP3 Lyrics Downloader And Tagger" on YouTube - Auto MP3 Lyrics Downloader And Tagger: https://youtu.be/xlfLY868YSo
+Even if file names were imperfect , it guessed the closest match
+Ah ! But chrome extensions are fun to write ,lots of possibilities  .... I wrote this YouTube replay extension 😁http://iyask.me/blog/2015/01/23/youtube-autolooper-js-script-hack/
+Long time ago
+Bahut kaam kiye ho bhai tum
+Chrome extension ideas ??
+Amarok lyrics de deta hai songs ke
+Unka code utha lete hain
+bc lyrics to K Player bhi deta hai
+Open source hai vo bhi?
+lyrics na hona koi problem thodi hui
+patani
+pivoting from the idea of creating a code editor for phone
+is there an app that lets you write books easily on phone?
+what we need is a keyboard which is comfortable for typing fast
+so that authors can write on the go too, jaise hi idea aaye
+hai kuch esa?
+Bahut keybords hai bhai.
+And as far as the editor goes.
+Any note making app will do.
+editor nahi, bas keyboard chaiye
+books ke liye
+Main thing is keyboard.
+Keyboards bahut hai.
+but keyboards hai, to scraping it
+Apne hissab se keys daal lo kissi bhi position pe.
+There is this one keyboard which only takes neeche ka 10 percent
+And still promises max two touch acces to all keys.
+there was this idea i saw
+when people want to chill
+they have to ask their frends
+bhai free ho
+msg, call them
+there was this app made in meteor
+down to chill
+you could mark that you are down to chill
+and your friends would see
+and also show events nearby to go to
+sahi tha vo bhi
+Hmm. Sounds intersting.
+http://downtochill.com/blog/
+Only difference bw this and stroll up would be down to chill functionality
+and that they are not making any plans for you
+just showing you events nearby
+so lots of difference
+anyways, that KFC mei fried chuha milne ki khabar sahi hai kya?
+Nahi kar sakte. Inhone apna android aur apple app nikaal dia hai.
+To pata lag jaaega ki copied hi hai.
+yo, i know
+Keh rahe hai ki hoax hai.
+Bc kuch nai kr skte, koi idea nai hai bc 😞
+coupons pade hai yaar kfc ke
+koi app banana hia bc
+for crowdsourcing ideas?
+an app where people can enter the problems they face
+so devs can solve them (and get ideas for hackathons)
+Oye. Ek do coupons bhejio
+Bhook lag rahi aur paise bhi hai.
+bhejta hu, door pada hai phone
+Zinger burger vaale bhejio
+Free wale coupon hai ya fir kuch % off wale?
+% vale
+😞
+ab saalo maine idea bataya hai
+vo to sun lo
+crowdsourcing f ideas
+"it would have helped if i could have one place to go to find tutors"
+Hasjob ki tarah ideas ko display kr denge
+😜
+and a dev sees and thinks its a good idea and develops
+par yaaaar, again, why not a facebook group
+aadhi cheeze to FB ne khatam kardi hai
+Abbe forum hai ye bhi
+Fuck it
+Hasjob ki tarah
+Kr dete hain
+Ideas display
+Bc aise to kuch bhi nai ban paega
+yo, you can show interest or dislike
+Sab kuch to fb kr deta hai
+and you can see most trending idea
+when you develop something, you can link back
+fir to proper app discovery bhi ho jayegi
+And kisi dev ne idea pe kaam khatm kr dia to uska color change krke
+Link sathmwi
+Sath mei
+yo
+App ka
+Haan. Ye sunne me sahi lag raha hai.
+Displaying like hasjob.
+Poore idea wale post-it ko clickable kr denge
+Uspe click krne se
+Dev ka app
+Ka link pe jaye
+yo yo
+Post it nahi bhai.
+Cards.
+Han wai bkl
+ye to kar sakte hai
+Material design
+😎
+bolo bc
+Sai lg rha hai
+Ye
+pranu ne ek hi cheez seekhi hai bc
+karte hai fir web
+mushkil nahi par kaam, aasaan kaam hai
+kam se kam backend pe to bahut aasaan hai
+Bhai. Mai to kehta hu ionic me banate hai.
+Mobile app.
+Seekh bhi lunga mai 24 ghante me.
+License summarization jitna impressive nai hai
+ek frontend dev aur chaiye hoga
+for web and if you fail
+Haan bc. Aise to har ka substitue chaie hoga.
+tu nayi cheez kae eaha hai na
+Bhai. Nayi cheez hi use karni chaie hackathons me.
+Learning.
+Bc par unki api nai use krpaenge
+mana thodi kiya hai bhosdi? Failure ko cover kar raha hu bas
+clusterpoint ki ho jayegi
+database clusterpoint ka use kar luna
+GoPro HP de rha hai par
+aur bc tu to pro ladka hai
+😜
+Data ko use kario
+to show the most relevant ideas
+karlio HP/IBM ki api ka istemal
+Kaise extract krenge most relevant
+Data nai hai pehle ka
+And relevance to subjective hai, kaunsa idea kiske lie relevant ho
+Kya pata
+https://archive.ics.uci.edu/ml/datasets.html
+NLP laga lio to tag ideas?
+Yahan se kuch use kr skte hain to dekho
+Kisi aur idea mei
+Just in case
+bahut hai ye to
+lung cancer etc ki lele
+aur dikha de which location is the worst for settling in
+<3
+Ye bhi sahi hai.
+Maps api use karke dikha denge.
+With color distribution and all
+breast cancer, crimes, TB
+ye dikhi mujhe
+karlio sabka use
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+human activity recognition using smartphone, mast
+Kaunsa krna hai fir idea
+NLP dekhta hu mei fir
+filhaal to can do hasIdea
+Hmm
+tu laga le NLP for tagging ideas
+Han padhta hu NLP aur iska istemal 😜
+and grouping similar ideas
+we can also ask the viewer to select which kind of dev ishe
+and why is he looking for an idea
+and produce stats later
+Ye to kaafi aage ki scoping hai.
+no login logout in the starting at least
+faltu overhead nahi le rahe
+Yeah
+Fsck kahan gya
+Kuch bol le bc
+Yask kaam karta hai bc
+apni tarah nahi whatsapp pe bakchodi pelo
+:P
+😅
+Login logout ke bina unique users hard code karoge?
+Product vaali feeling nahi aati without login.
+Ye mai isliye bol raha cuz mene poori tarah implement kar liya login angular me.
+:P theek hai bhai
+to karva dio fir loging
+mai soch raha hu mai kya seekhu iss hackathon mei
+Tucha sa hai backend jo already coded hai.
+Satellizer vaale ne backend bhi likhe hai in node php python etc
+pyara ladka hai satellizer ka
+soch raha hu ROR mei banau
+django <3
+dekhte hai pranu ka log in ka code kaisa hai
+fir pehli priority Flask ko
+nahi to django
+for login in todjokes i used django all auth :)
+facebook se login kra lete hain
+OAuth jo bhi hota hai
+OAuth2
+Yea!
+i used django bahut pehle so not in touch with it
+but okay, lets do it
+django overkill na ho jaye, if flask works, we will use flask?
+I am django pro :) I contributed to it :)
+Haan. Fb se hi hoga login.
+I made this: https://www.youtube.com/watch?v=ka6BqL8OifI
+nah! django is more flexible
+Flexible to falsk hai
+par django is easier to do stuff
+sab pehle se implemented
+dekh lenge.
+Front end me kya lagaya ismr?
+what? flask is easier to implement :)
+All auth maintains session?
+or token?
+Django is pre built with user model database , django all auth plugins easily integrates with it.
+sessions
+REST backend banana hia na
+REST ke liye to tokens implement karenge
+Kisliye?
+REST kisliye
+ya token kisliye?
+REST ?
+decoupled backend and frontend
+use any thing on the front then, an app maybe
+android ios whatever
+backend doesnt need to change
+Okkey! MVC models works on top of REST then ?
+Okkey! I got your point
+dont define V in django
+justMC
+:D
+V hum banate hain.
+so thats why i was saying, flask would work too, just a REST backend
+yea :D
+so Pranu runs the login logic
+and hands us the token
+and later we check against the token
+Konsi app banani hai?
+for the database, if SQL clusterpoint use kar lenge
+varna Orchestrate
+or IBM bluemix ka DB huhuhahaha
+-_-
+App konsi
+?
+yaar yask tu padhta hi nahi hamare gaandfaad ideas :P
+batade , too many messages :/
+[6/18/2015, 4:44 PM] +91 98 99 550412: koi app banana hia bc
+for crowdsourcing ideas?
+an app where people can enter the problems they face
+so devs can solve them (and get ideas for hackathons)
+okkey! thanks
+Nice :)
+[6/18/2015, 4:47 PM] +91 98 99 550412: and you can see most trending idea
+when you develop something, you can link back
+fir to proper app discovery bhi ho jayegi
+kuch na hone se to better hai
+but people may not like to share an idea ? they would like to work on it themselves , hire developers and build a startup themselves
+haha
+Abbe. Haan.
+point
+I wouldn't share my idea :P
+those with little ambition?
+bc koi idea hi na share krega :P
+:X
+problem not solved
+users not there
+:(
+hamne login bhi bana liya tha batao :P
+judges unhappy
+:P
+Shai bola. Yask.
+gaand mardi idea ki
+sai mei
+-_-
+bc image recognition mei kuch socho
+:P
+But this is a problem. From where to get inspiration
+what say you scrape news and search for problem (NLP)
+and populate in a list
+research problem hai ye
+kya matlab hua iska
+aman madaan isi pe kaam kr rha hai
+scraping the web
+and finding uspe NLP
+matlab maine jaane anjaane badiya idea soch liya, vaah :P
+This is what I did for Routofy  , mostly scrapping , I scrapped all travel data of all buses , planes , trains , from point A to point B. Kind of like hipmunk. This startup was brought by snapdeal recently.
+http://routofy.com/
+scrapy use kia scrap krne k lie?
+Yep!
+only this
+ya aur kuch bhi
+Only this  , but I had to study the website in developer console , understand the complicated javascript on how they communicated with their internal APIs and then created a python script to replicate the same behavior of website and communicate with their secret API to get data :) We did this from RedBus , IRCTC , ... etc
+But the idea is nice  , all travel data in one place
+the same could be done for hotels
+hasnt it be done pehle
+?
+Yes!
+bookings.com
+agoda
+I was just writing to give inspirations
+Okkey! this is what I was thinking:
+but its complicated ;)
+achhe idea tab aate hai jab tumhe problem khud mehsus ho and you think abbe ye ti galat hai
+And I desperatly need this feature
+how licence summary vala ladka must have got the idea
+I want this feature : Whenever some one whatsapps me , I want that text notification in my email too. For those people who hate whatsapp (me!!! ) , but can't live without it
+To saalo tumhe koi problems nahi aati kya?
+I have written some automation scripts on whatsapp
+https://www.youtube.com/watch?v=xRT7drIrw78
+:)
+Yask. Kuch to chod deta. Khud hi saari problems solve kar dega.
+:P bhai
+Not solved , we need to extend its functionality to send an email notification. I desperatly need this feature :)
+This script can also be used to send spam whatsapp messages to lots of people
+can we summarize slack messages using NLP?
+Vinayak
+slack has an open API and stuff
+people dont want to get alienated in their teams
+can we summarize the unread messages?
+same for whatsapp maybe
+why slack?
+people can't read 300+ msgs
+Slack ka open API hai na.
+beacause slack lets you do it legally
+and wait
+https://github.com/WHAnonymous/Chat-API
+isse ho skta hai kuch?
+yea , but computers aren't smart enough to know whats important and whats not? How will we do this?
+??
+https://medium.com/@satyavh/the-real-reason-slack-became-a-billion-dollar-company-f14c22b15a29
+That will be a break through :)
+NLP
+license summarization bhi to kia na bc
+slack is addictive because people dont want to feel alientaed in their own teams
+so you summarize that
+hmmm...
+nice article :)
+padh bhi lia bc?
+shuru kiya hai :P
+bhai ne NLP laga ke summarize kar liya hoga
+Yask video banayi iski? link do
+😆
+kiski :P
+?
+ab joke explain na karva
+-_-
+batao, vinayak, kar sakte hai summarize?
+kr hi skte honge shayad, par messages kisi license ki tarah structured nai hote
+dekhna padega
+and iska scope? FOR EVERY TEAM USING SLACK
+I dont think its possible , heard of trending startup News In Short? they manually shorten the news article by their team
+because every team has users who are busy
+yo but emotions can be gauged
+maybe we can do sentiment analysis on slack messages :D
+to gauge the mood
+of the team
+some key words can be listened for to say if someone completed a project
+or somone died
+okkey! but why are we focussing on slack? whats the fuss about it?
+this can be done be!
+we can ofc improve it later
+slack because slack is one good resource for teams
+and every company is migrating to it, and ditching emails
+Slack has become a platofrm over which devs are making it
+What really? I need to try it :) is it free?
+yo free
+abbe slack to 2 saal mei baap ho gaya hai
+teams ke liye addictive
+Again. I dont think NLP sab lagana 24 ghante me ho paaega
+apna discussion ek bar slack pe krke dekhe
+?
+abbe to sab nahi lagayenge na
+demo tayar karenge, the idea has to be good
+and viable
+which it is
+http://www.theverge.com/2014/10/31/7135639/slack-is-now-the-fastest-growing-workplace-software-ever
+in the beginning it wont work very well, but with time it can
+in our demo we can summarize chats which our algo can handle
+we arent Pros, if we end up doing it for real (after the hackathon too) we will work like pros
+And i checked, nobody is summarizing slack messages
+here is our chance, its a good challenge
+and we can do it
+What do you mean when you say summarize?
+that is to be decided
+tell them things are important
+remove all bakchodi
+dates and targets to be shown
+tum sab ko
+email aya hoga
+slack
+invite
+join krlo
+aaja
+gitter k lie bhi kr skte hain
+uski API hain?
+no idea
+hai shayad
+[ar pehle slack karlo
+jayada bada user base hai
+kisi aur ko karni ki zarurat hi nahi padegi ma kasam
+gitter ka bhi faad userbase hai, github k zyadatr developers apne repo k bare mei baatei usi pe krte hain
+aaja fir slack pe
+kaam karna hai aur bhi
+Yask bc slack pe aa
+Aya to
+Vinayak, are you trying something?
+abhi tk to nai
+raat mei plan hai krne ka
+dekhte hain :|
+Achha. Kar kuch
+Tere kaabil kandho pe hi tike hai ham
+bc islie keh rha hu koi aur idea bhi soch lo, ye kandhe kaabil nai hain abhi utne :P
+Kuch aur hi kar rahe hai par tu research karke dekh
+Shayad utna mushkil na ho
+Tinder's founders were gay
+Huhuhahahaha
