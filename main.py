@@ -2,6 +2,7 @@ import requests
 import pycps
 from slacker import Slacker
 import json
+import os
 
 slack = Slacker('xoxp-6562741812-6562848885-6651067744-cb5f98')
 
