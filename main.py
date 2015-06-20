@@ -13,7 +13,7 @@ def slack():
 	req_data = request.form
 	channel_id = req_data.getlist('channel_id')
 
-	response =  slack.channels.history(channel_id)
+	response =  slack.channels.history(channel_id.decode("utf-8"))
 	a = (response.body)
 
 	print a
