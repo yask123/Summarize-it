@@ -1,3 +1,4 @@
+from flask import Flask, jsonify, request
 import requests
 import pycps
 from slacker import Slacker
@@ -5,23 +6,20 @@ import json
 import os
 
 slack = Slacker('xoxp-6562741812-6562848885-6651067744-cb5f98')
-
-from flask import Flask, jsonify
 app = Flask(__name__)
 
 @app.route("/summarize", methods=['POST'])
 def slack():
-	# channel_id = request.args.get("channel_id")
-	# response =  slack.channels.history(channel_id)
-	# a = (response.body)
+	channel_id = request.form['channel_id']
+	response =  slack.channels.history(channel_id)
+	a = (response.body)
 
-	print ("Hello")	
-	return ("Done")
+	return (a)
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
+    app.run(host='0.0.0.0', port=port, debug=True)
 
 
 
