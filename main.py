@@ -22,7 +22,12 @@ def slackReq():
 		para += a['messages'][i]['text'] + ". "
 
 	para = para.decode("utf-8")
-	summary = textrank(para)
+	summary_token = textrank(para)
+
+	summary = ""
+	for i in summary_token:
+		summary += i
+		summary += " "
 
 	print summary
 	return str(summary)

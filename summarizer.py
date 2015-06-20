@@ -15,9 +15,4 @@ def textrank(para):
 
     nx_graph = nx.from_scipy_sparse_matrix(similarity_graph)
     scores = nx.pagerank(nx_graph)
-    l = sorted((s for i, s in enumerate(sentences)), reverse=True)
-    hack = ""
-    for i in l:
-        hack += i
-        hack += " "
-    return hack
+    return sorted((s for i, s in enumerate(sentences)), reverse=True)
