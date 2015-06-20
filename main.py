@@ -55,6 +55,7 @@ def extensionReq():
 
 	# print summary
 	# return str(summary)
+	pass
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
