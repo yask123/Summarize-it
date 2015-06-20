@@ -13,49 +13,29 @@ app = Flask(__name__)
 def slackReq():
 	req_data = request.form
 	channel_id = req_data.getlist('channel_id')
-
 	response =  slack.channels.history(channel_id)
 	a = (response.body)
 	para = ""
-
+	concepts = ""
 	for i in range(len(a['messages']) - 1, -1, -1):
 		para += a['messages'][i]['text'] + ". "
-
 	para = para.decode("utf-8")
-	summary_token = textrank(para)
 
+	payload = {'apikey': 'a429a338-07a1-4b6e-bd46-c75b1fab8c89', 'text': para}
+	r = requests.get('http://api.idolondemand.com/1/api/sync/extractconcepts/v1', params=payload)
+	json_r = json.loads(r.text)
+	for i in range(len(json_r['concepts'])):
+		concepts += json_r['concepts'][i]['concept'] + ", "
+
+	summary_token = textrank(para)
 	summary = ""
 	for i in summary_token:
 		summary += i
 		summary += " "
 
-	print summary
-	return str("*" + summary + "*")
+	res = "*Summary:* " + summary + "\n" + "*Concepts:* " + concepts
+	return str(res)
 
-
-@app.route("/extension", methods=['POST'])
-def extensionReq():
-	# req_data = request.form
-	# channel_id = req_data.getlist('channel_id')
-
-	# response =  slack.channels.history(channel_id)
-	# a = (response.body)
-	# para = ""
-
-	# for i in range(len(a['messages']) - 1, -1, -1):
-	# 	para += a['messages'][i]['text'] + ". "
-
-	# para = para.decode("utf-8")
-	# summary_token = textrank(para)
-
-	# summary = ""
-	# for i in summary_token:
-	# 	summary += i
-	# 	summary += " "
-
-	# print summary
-	# return str(summary)
-	pass
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
@@ -63,13 +43,7 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=port, debug=False)
 
 
-#return a['messages'][0]['text']
 
-# payload = {'apikey': 'a429a338-07a1-4b6e-bd46-c75b1fab8c89', 'text': 'Someone I know recently combined Maple Syrup.'}
-
-# r = requests.get('http://api.idolondemand.com/1/api/sync/extractconcepts/v1', params=payload)
-
-# print r.text
 
 
 # con = pycps.Connection('tcp://cloud-us-0.clusterpoint.com:9007', 'Angel-hack', 'ketanbhatt1006@gmail.com', 'Updated@2015', '100581')
