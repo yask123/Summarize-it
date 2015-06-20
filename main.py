@@ -30,7 +30,7 @@ def slackReq():
 		summary += " "
 
 	print summary
-	return str(summary)
+	return str("*" + summary + "*")
 
 
 @app.route("/extension", methods=['POST'])
