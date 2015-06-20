@@ -15,7 +15,7 @@ def slack():
 	# a = (response.body)
 
 	# return (a)
-	print channel_id
+	return channel_id
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
