@@ -11,8 +11,11 @@ app = Flask(__name__)
 
 @app.route("/summarize", methods=['POST'])
 def slack():
-	print ("Slash command")
-	return ("Vinayak good boy")
+	channel_id = request.args.get("channel_id")
+	response =  slack.channels.history(channel_id)
+	a = (response.body)
+	
+	return (a['messages'][0]['text'])
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
@@ -21,15 +24,7 @@ if __name__ == "__main__":
 
 
 
-# response =  slack.channels.history('C06GJNJEM')
-
-# a = (response.body)
-
-# print (a['messages'][0]['text'])
-
-
-
-# payload = {'apikey': secret["HP"], 'text': 'Someone I know recently combined Maple Syrup.'}
+# payload = {'apikey': 'a429a338-07a1-4b6e-bd46-c75b1fab8c89', 'text': 'Someone I know recently combined Maple Syrup.'}
 
 # r = requests.get('http://api.idolondemand.com/1/api/sync/extractconcepts/v1', params=payload)
 
