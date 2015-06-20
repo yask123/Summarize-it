@@ -1,3 +1,4 @@
+from summarizer import textrank
 from flask import Flask, jsonify, request
 import requests
 import pycps
@@ -20,8 +21,10 @@ def slackReq():
 	for i in range(len(a['messages']) - 1, -1, -1):
 		para += a['messages'][i]['text'] + ". "
 
-	print para
-	return para
+	para = para.decode("utf-8")
+	summary = textrank(para)
+	print summary
+	return "OK"
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.

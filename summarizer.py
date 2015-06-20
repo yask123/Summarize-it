@@ -4,12 +4,11 @@ import numpy as np
 from nltk.tokenize.punkt import PunktSentenceTokenizer
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 
-def textrank(document):
+def textrank(para):
     sentence_tokenizer = PunktSentenceTokenizer()
-    sentences = sentence_tokenizer.tokenize(document)
+    sentences = sentence_tokenizer.tokenize(para)
     
     bow_matrix = CountVectorizer().fit_transform(sentences)
-    print(bow_matrix.shape)
     normalized = TfidfTransformer().fit_transform(bow_matrix)
 
     similarity_graph = normalized * normalized.T

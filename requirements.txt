@@ -3,8 +3,14 @@ Jinja2==2.7.3
 MarkupSafe==0.23
 Werkzeug==0.10.4
 clusterpoint-api==0.3.0
+decorator==3.4.2
 itsdangerous==0.24
+networkx==1.9.1
+nltk==3.0.3
+numpy==1.9.2
 pycps==0.3.0
 requests==2.7.0
+scikit-learn==0.16.1
+scipy==0.15.1
 slacker==0.6.2
 wsgiref==0.1.2
