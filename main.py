@@ -10,12 +10,12 @@ app = Flask(__name__)
 
 @app.route("/summarize", methods=['POST'])
 def slack():
-	channel_id = request.values
+	print dir(request)
 	# response =  slack.channels.history(channel_id)
 	# a = (response.body)
 
 	# return (a)
-	return channel_id
+	return "Yoyo"
 
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
