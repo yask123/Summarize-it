@@ -24,7 +24,7 @@ def slackReq():
 	payload = {'apikey': 'a429a338-07a1-4b6e-bd46-c75b1fab8c89', 'text': para}
 	r = requests.get('http://api.idolondemand.com/1/api/sync/extractconcepts/v1', params=payload)
 	json_r = json.loads(r.text)
-	for i in range(len(json_r['concepts'])):
+	for i in range(len(json_r['concepts'])/2):
 		concepts += json_r['concepts'][i]['concept'] + ", "
 
 	summary_token = textrank(para)
@@ -41,7 +41,7 @@ def slackReq():
 if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port, debug=False)
+    app.run(host='0.0.0.0', port=port, debug=True)
 
 
 
