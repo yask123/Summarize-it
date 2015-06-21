@@ -14,7 +14,7 @@ Type /summarize-it-command-name to initiate the plugin. The plugin will automati
 Slack , HP clusterpoint .
 
 ## Authors and Contributors
-Yask Srivastava Ketan Bhatt Pranu Sarna Vinayak Mehta
+Yask Srivastava, Ketan Bhatt, Pranu Sarna and Vinayak Mehta
 
 ## Support or Contact
 Having trouble with summarize it? Create an issue in the repository Github Repo

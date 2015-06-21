@@ -1,7 +1,6 @@
 from summarizer import textrank
 from flask import Flask, jsonify, request
 import requests
-import pycps
 from slacker import Slacker
 import json
 import os

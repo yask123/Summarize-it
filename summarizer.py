@@ -41,13 +41,10 @@ def textrank(document):
     for i in range(0, len(temp_array)):
         if temp_array[i] > threshold:
             sentence_list.append(sentence_array[i][1])
-    
-    return sentence_list
-    """
-    ret_string = ""
-    for i in range(len(sentence_list)):
-        ret_string += sentence_list[i]
-        ret_string += " "
 
-    return str(ret_string)
-    """
+    seq_list = []
+    for sentence in sentence_array:
+    	if sentence in sentence_list:
+    		seq_list.append(sentence)
+    
+    return seq_list
