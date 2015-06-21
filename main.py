@@ -5,7 +5,7 @@ from slacker import Slacker
 import json
 import os
 
-con = pycps.Connection('tcp://cloud-us-0.clusterpoint.com:9007', 'angelhack', 'ketanbhatt1006@gmail.com', 'Updated@2015', '100581')
+# con = pycps.Connection('tcp://cloud-us-0.clusterpoint.com:9007', 'angelhack', 'ketanbhatt1006@gmail.com', 'Updated@2015', '100581')
 slack = Slacker('xoxp-6562741812-6562848885-6651067744-cb5f98')
 app = Flask(__name__)
 
