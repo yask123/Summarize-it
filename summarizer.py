@@ -43,7 +43,7 @@ def textrank(document):
             sentence_list.append(sentence_array[i][1])
 
     seq_list = []
-    for sentence in sentence_array:
+    for sentence in sentences:
     	if sentence in sentence_list:
     		seq_list.append(sentence)
     
