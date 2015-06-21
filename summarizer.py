@@ -20,7 +20,7 @@ def textrank(document):
     scores = nx.pagerank(nx_graph)
     sentence_array = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
     
-    sentence_array = sentence_array[:math.floor(len(sentence_array) * 0.5)]
+    # sentence_array = sentence_array[:math.floor(len(sentence_array) * 0.5)]
     
     sentence_array = [s for i, s in sentence_array]
     
