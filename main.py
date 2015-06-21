@@ -26,7 +26,9 @@ def slackReq():
 	r = requests.get('http://api.idolondemand.com/1/api/sync/extractconcepts/v1', params=payload)
 	json_r = json.loads(r.text)
 	for i in range(len(json_r['concepts'])/2):
-		concepts += json_r['concepts'][i]['concept'] + ", "
+		temp = json_r['concepts'][i]['concept']
+		if (len(temp) >= 4) and (" " in temp):
+			concepts += temp + ", "
 
 	summary_token = textrank(para)
 	summary = ""
