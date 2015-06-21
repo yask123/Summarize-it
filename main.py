@@ -6,6 +6,7 @@ from slacker import Slacker
 import json
 import os
 
+con = pycps.Connection('tcp://cloud-us-0.clusterpoint.com:9007', 'anglehack', 'ketanbhatt1006@gmail.com', 'Updated@2015', '100581')
 slack = Slacker('xoxp-6562741812-6562848885-6651067744-cb5f98')
 app = Flask(__name__)
 
@@ -36,7 +37,14 @@ def slackReq():
 		if "has joined the channel" not in i:
 			summary += i + " "
 
-	res = "*Summary:* \n " + summary + "\n \n" + "*Concepts:*  \n" + concepts
+	res = "*Chat Summary:* \n " + summary + "\n \n" + "*Topics Discussed:*  \n" + concepts
+	
+	con.insert({
+		'extract': para,
+		'summary': summary,
+		'concepts': concepts
+		})
+
 	print res
 	return str(res)
 
@@ -45,13 +53,3 @@ if __name__ == "__main__":
 	# Bind to PORT if defined, otherwise default to 5000.
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port, debug=True)
-
-
-
-
-
-# con = pycps.Connection('tcp://cloud-us-0.clusterpoint.com:9007', 'Angel-hack', 'ketanbhatt1006@gmail.com', 'Updated@2015', '100581')
-
-# con.insert({5: '<text>foobar</text>',
-#             6: '<text>baz</text>', 
-#             'id7': {'title': 'Loerem Ipsum', 'text': 'Long, long text'}})
