@@ -27,14 +27,14 @@ def slackReq():
 	json_r = json.loads(r.text)
 	for i in range(len(json_r['concepts'])/2):
 		temp = json_r['concepts'][i]['concept']
-		if (len(temp) >= 4) and (" " in temp):
+		if (len(temp) >= 4) and (" " in temp) and (temp != "joined the channel"):
 			concepts += temp + ", "
 
 	summary_token = textrank(para)
 	summary = ""
 	for i in summary_token:
-		summary += i
-		summary += " "
+		if "has joined the channel" not in i:
+			summary += i + " "
 
 	res = "*Summary:* \n " + summary + "\n \n" + "*Concepts:*  \n" + concepts
 	print res
