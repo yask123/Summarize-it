@@ -18,15 +18,15 @@ def textrank(document):
 
     nx_graph = nx.from_scipy_sparse_matrix(similarity_graph)
     scores = nx.pagerank(nx_graph)
-    sentence_array = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+    return sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
     
     # sentence_array = sentence_array[:math.floor(len(sentence_array) * 0.5)]
     
-    sentence_array = [s for i, s in sentence_array]
+    # sentence_array = [s for i, s in sentence_array]
     
-    ret_string = ""
-    for i in range(len(sentence_array)):
-        ret_string += sentence_array[i]
-        ret_string += " "
+    # ret_string = ""
+    # for i in range(len(sentence_array)):
+    #     ret_string += sentence_array[i]
+    #     ret_string += " "
 
-    return str(ret_string)
+    # return str(ret_string)

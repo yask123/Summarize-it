@@ -33,7 +33,7 @@ def slackReq():
 		summary += i
 		summary += " "
 
-	res = "*Summary:* " + summary + "\n" + "*Concepts:* " + concepts
+	res = "*Summary:* \n " + summary + "\n \n \n" + "*Concepts:*  \n" + concepts
 	print res
 	return str(res)
 
