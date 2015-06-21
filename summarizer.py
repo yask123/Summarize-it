@@ -18,7 +18,7 @@ def textrank(document):
 
     nx_graph = nx.from_scipy_sparse_matrix(similarity_graph)
     scores = nx.pagerank(nx_graph)
-    return sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+    return sorted(( s for i, s in enumerate(sentences)), reverse=True)
     
     # sentence_array = sentence_array[:math.floor(len(sentence_array) * 0.5)]
     
