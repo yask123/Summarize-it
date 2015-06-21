@@ -28,7 +28,11 @@ def textrank(document):
     temp_array = []
     # Normalization
     for i in range(0, len(sentence_array)):
-        temp_array.append((float(sentence_array[i][0]) - fmin) / (fmax - fmin))
+        if fmax - fmin == 0:
+        	temp_array.append(0)
+        else:
+        	temp_array.append((float(sentence_array[i][0]) - fmin) / (fmax - fmin))
+
 
     threshold = (sum(temp_array) / len(temp_array)) + 0.2
     
