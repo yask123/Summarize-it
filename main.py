@@ -39,10 +39,10 @@ def slackReq():
 
 	res = "*Chat Summary:* \n " + summary + "\n \n" + "*Topics Discussed:*  \n" + concepts
 
-	con.insert({
-		'extract': "<text>" + str(para) + "</text>",
-		'summary': "<text>" + summary + "</text>"
-		})
+	# con.insert({
+	# 	'extract': "<text>" + para + "</text>",
+	# 	'summary': "<text>" + summary + "</text>"
+	# 	})
 
 	print res
 	return str(res)
