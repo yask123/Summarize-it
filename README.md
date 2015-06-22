@@ -11,11 +11,11 @@ Summarize it is a chat summarizer plugin for instant messaging applications. It 
 Type /summarize-it-command-name to initiate the plugin. The plugin will automatically summarize the above chat contents and display the summary.
 
 ## APIs being used
-Slack , HP clusterpoint .
+Slack, HP IDOL OnDemand.
 
 ## Authors and Contributors
-Yask Srivastava, Ketan Bhatt, Pranu Sarna and Vinayak Mehta
+Yask Srivastava (Developer), [Ketan Bhatt](https://github.com/ketanbhatt) (Developer), [Pranu Sarna](https://github.com/psarna94) (Developer) and [Vinayak Mehta](https://github.com/vortex-ape) (Data Scientist).
 
 ## Support or Contact
-Having trouble with summarize it? Create an issue in the repository Github Repo
+Having trouble with summarize it? Create an issue in the repository GitHub Repo.
 
