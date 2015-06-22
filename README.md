@@ -1,4 +1,4 @@
-# Summerize It!
+# Summarize It!
 
 Summarize it is a chat summarizer plugin for instant messaging applications. It summarizes the large content of chat logs which enables users to quickly understand the current context of the conversation. Currently Summarize it works on top of Slack as its plugin.
 
