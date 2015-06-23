@@ -3,9 +3,12 @@
 Summarize it is a chat summarizer plugin for instant messaging applications. It summarizes the large content of chat logs which enables users to quickly understand the current context of the conversation. Currently Summarize it works on top of Slack as its plugin.
 
 ## Installing Summarize It plugin for your slack
-1. visit `https://<your-team-name>.slack.com/services/new/slash-commands`
-2. Enter the command name you wish to use
-3. Enter the request url `https://angel-summarize.herokuapp.com/slack`
+1. Create a token for your team `https://api.slack.com/web` 
+2. Clone/fork this repository and change the token in main.py to your token
+3. Deploy the app at heroku/IBM bluemix etc.
+4. Visit `https://<your-team-name>.slack.com/services/new/slash-commands`
+5. Enter the command name you wish to use
+6. Enter the request url as `<your-deployed-app-url>/slack`
 
 ## Using Summarize It plugin with slack
 Type /your-command to initiate the plugin. The plugin will automatically summarize the above chat contents and display the summary.
