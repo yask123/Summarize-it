@@ -4,7 +4,10 @@ Summarize it is a chat summarizer plugin for instant messaging applications. It 
 
 ## Installing Summarize It plugin for your slack
 1. Create a token for your team `https://api.slack.com/web` 
-2. Clone/fork this repository and change the token in main.py to your token
+2. Clone/fork this repository and create a file "config.py" like so:
+    `keys = {
+        "slack": "your-token-here"
+    }`
 3. Deploy the app at heroku/IBM bluemix etc.
 4. Visit `https://<your-team-name>.slack.com/services/new/slash-commands`
 5. Enter the command name you wish to use
@@ -19,7 +22,7 @@ Type /your-command to initiate the plugin. The plugin will automatically summari
 ![Hackathon Discussion](img/hackathon-discussion.png)
 
 #### Meeting Discussion
-[Meeting Discussion](img/meeting-discussion.png)
+![Meeting Discussion](img/meeting-discussion.png)
 
 ## Authors and Contributors
 Yask Srivastava (Developer), [Ketan Bhatt](https://github.com/ketanbhatt) (Developer), [Pranu Sarna](https://github.com/psarna94) (Developer) and [Vinayak Mehta](https://github.com/vortex-ape) (Data Scientist).
