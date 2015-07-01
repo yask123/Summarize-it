@@ -13,8 +13,13 @@ Summarize it is a chat summarizer plugin for instant messaging applications. It 
 ## Using Summarize It plugin with slack
 Type /your-command to initiate the plugin. The plugin will automatically summarize the above chat contents and display the summary.
 
-## APIs being used
-Slack, HP IDOL OnDemand.
+## Screenshots
+
+#### Hackathon Discussion
+![Hackathon Discussion](img/hackathon-discussion.png)
+
+#### Meeting Discussion
+[Meeting Discussion](img/meeting-discussion.png)
 
 ## Authors and Contributors
 Yask Srivastava (Developer), [Ketan Bhatt](https://github.com/ketanbhatt) (Developer), [Pranu Sarna](https://github.com/psarna94) (Developer) and [Vinayak Mehta](https://github.com/vortex-ape) (Data Scientist).
