@@ -4,9 +4,9 @@ import requests
 from slacker import Slacker
 import json
 import os
+from config import *
 
-# con = pycps.Connection('tcp://cloud-us-0.clusterpoint.com:9007', 'angelhack', 'ketanbhatt1006@gmail.com', 'Updated@2015', '100581')
-slack = Slacker('xoxp-6562741812-6562848885-6651067744-cb5f98')
+slack = Slacker(keys["slack"])
 app = Flask(__name__)
 
 @app.route("/slack", methods=['POST'])
@@ -37,11 +37,6 @@ def slackReq():
 			summary += i + " "
 
 	res = "*Chat Summary:* \n " + summary + "\n \n" + "*Topics Discussed:*  \n" + concepts
-
-	# con.insert({
-	# 	'extract': "<text>" + para + "</text>",
-	# 	'summary': "<text>" + summary + "</text>"
-	# 	})
 
 	print res
 	return str(res)
