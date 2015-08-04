@@ -1,3 +1,4 @@
+
 from summarizer import textrank
 from flask import Flask, jsonify, request
 import requests
@@ -21,7 +22,7 @@ def slackReq():
 		para += a['messages'][i]['text'] + ". "
 	para = para.decode("utf-8")
 	print para
-
+	#Use your own api key
 	payload = {'apikey': 'a429a338-07a1-4b6e-bd46-c75b1fab8c89', 'text': para}
 	r = requests.get('http://api.idolondemand.com/1/api/sync/extractconcepts/v1', params=payload)
 	json_r = json.loads(r.text)
