@@ -30,3 +30,7 @@ Yask Srivastava (Developer), [Ketan Bhatt](https://github.com/ketanbhatt) (Devel
 ## Support or Contact
 Having trouble with summarize it? Create an issue in the repository GitHub Repo.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yask123/summarize-it/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
