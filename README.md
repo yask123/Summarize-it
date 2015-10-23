@@ -30,7 +30,7 @@ Type /your-command to initiate the plugin. The plugin will automatically summari
 #### Meeting Discussion
 ![Meeting Discussion](img/meeting-discussion.png)
 
-## Authors and Contributors
+## Authors
 Yask Srivastava, [Ketan Bhatt](https://github.com/ketanbhatt), [Pranu Sarna](https://github.com/psarna94) and [Vinayak Mehta](https://github.com/vortex-ape).
 
 ## Support or Contact
