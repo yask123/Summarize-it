@@ -24,7 +24,7 @@ Type /your-command to initiate the plugin. The plugin will automatically summari
 
 ## Screenshots
 
-#### Hackathon Discussion
+#### Hackathon Discussions
 ![Hackathon Discussion](img/hackathon-discussion.png)
 
 #### Meeting Discussion
